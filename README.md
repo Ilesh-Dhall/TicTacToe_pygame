@@ -1,13 +1,54 @@
-# TicTacToe_pygame
-Tic-Tac-Toe game developed entirely in Python.
+# ❌⭕ Tic-Tac-Toe - Pygame  
 
-Features:
-1. User can play against another player.
-2. GUI layout.
-3. Mouse-click operations.
+## 📌 Overview  
+This is a **classic Tic-Tac-Toe game** developed entirely in **Python** using the **Pygame** library. Players can take turns selecting their moves using a graphical interface with mouse-click operations.  
 
-This game is made using python 3.9.6 and pygame 2.0.1. To run this game you need to have a newer version of python 3 installed on your computer with the newest version of pygame library.
+---  
 
-Be sure that the python script is placed along with the Assets folder to run it.
+## 🎯 Features  
+✅ **Two-Player Mode** – Play against a friend!  
+✅ **Graphical UI** – Interactive and user-friendly design.  
+✅ **Mouse-Click Operations** – Simply click to place your mark.  
+✅ **Python & Pygame-Based** – Simple, lightweight, and easy to run.  
 
-Enjoy playing... :)
+---  
+
+## 🏠 Project Structure  
+```
+📺 TicTacToe_pygame
+│── 📂 Assets  # Contains game images and resources
+│── 📄 Game.py  # The main Python script to run the game
+└── 📄 README.md  # Project documentation
+```
+Ensure the **Assets folder** is placed in the same directory as `Game.py`.  
+
+---  
+
+## ⚙️ Installation & Setup  
+### 1️⃣ Prerequisites  
+- **Python 3.9.6+**  
+- **Pygame 2.0.1+**  
+
+### 2️⃣ Clone the Repository  
+```sh  
+git clone https://github.com/Ilesh-Dhall/TicTacToe-PyGame.git  
+cd TicTacToe-PyGame  
+```
+
+### 3️⃣ How to Play 🎮  
+1️. Run the game script:  
+```sh  
+python3 Game.py  
+```
+2️. Players take turns placing their marks (`X` or `O`) on the grid.  
+3️. The first player to align three marks in a row, column, or diagonal wins.  
+4️. Play as many rounds as you like!  
+
+---  
+
+## 🎥 Game Interface  
+A simple and intuitive graphical interface allows players to select their move by clicking on the grid.  
+
+---  
+
+## 🚀 Enjoy Playing! 🎉  
