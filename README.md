@@ -31,8 +31,8 @@ Ensure the **Assets folder** is placed in the same directory as `Game.py`.
 
 ### 2️⃣ Clone the Repository  
 ```sh  
-git clone https://github.com/Ilesh-Dhall/TicTacToe-PyGame.git  
-cd TicTacToe-PyGame  
+git clone https://github.com/Ilesh-Dhall/Tic-Tac-Toe-PyGame.git  
+cd Tic-Tac-Toe-PyGame  
 ```
 
 ### 3️⃣ How to Play 🎮  
